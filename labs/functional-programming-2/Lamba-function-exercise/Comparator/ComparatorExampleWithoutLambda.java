@@ -6,7 +6,7 @@ import java.util.function.Consumer;
 
 public class ComparatorExampleWithoutLambda {
     public static void main(String[] args) {
-
+        //1.5.1 Comparator Example for Sorting Employee Objects
        //create a few dummy employee records and put them in a simple ArrayList instance.
         Employee employee1 = new Employee(2, "A", "F", 18);
         Employee employee2 = new Employee(3, "z", "P", 20);
